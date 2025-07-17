@@ -1,5 +1,7 @@
 ## Signerator - launching .ipa apps on Apple Silicon.
 
+![Preview](/1.png)
+
 1. Import the certificate into Keychain Access
 2. Open Signerator - Settings and add the `.mobileprovision` file
 3. Wait for the signing process to complete
